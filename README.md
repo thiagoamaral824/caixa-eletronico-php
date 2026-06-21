@@ -82,5 +82,4 @@ O foco deste projeto não é reproduzir um sistema bancário completo, mas sim c
 
 ### Conecte-se comigo
 
-- LinkedIn: https://www.linkedin.com/in/seu-linkedin
-- GitHub: https://github.com/seu-usuario
+- LinkedIn: https://www.linkedin.com/in/thiago-amaral-ab3a4423a/
