@@ -56,6 +56,9 @@ php caixa-eletronico.php
 ```
 
 ## 📸 Exemplo de uso
+<img width="1918" height="1000" alt="image" src="https://github.com/user-attachments/assets/3a2f2ce8-da48-49d3-bba3-1f9daeccee52" />
+<img width="1902" height="1021" alt="image" src="https://github.com/user-attachments/assets/a66a3b3c-270b-4dcc-abe5-b8ce3d61e4f8" />
+
 
 ```text
 Titular da conta: Thiago Amaral
